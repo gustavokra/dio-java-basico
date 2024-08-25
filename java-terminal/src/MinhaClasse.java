@@ -1,8 +1,10 @@
+import java.util.InputMismatchException;
 import java.util.Locale;
 import java.util.Scanner;
 
 public class MinhaClasse {
     public static void main(String[] args) {
+        try {
         Locale ptBr = new Locale("pt", "BR");
         Scanner scanner = new Scanner(System.in).useLocale(ptBr);
 
@@ -21,6 +23,8 @@ public class MinhaClasse {
         System.out.println("Olá, me chamo " + nome + " " + sobrenome + ".");
         System.out.println("Tenho " + idade + " anos. ");
         System.out.println("Minha altura é " + altura + " metros!");
-
+        } catch ( NumberFormatException e) {
+            System.err.println("Os campos idade e altura precisam ser numéricos");
+        }
     }
 }
