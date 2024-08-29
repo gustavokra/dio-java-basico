@@ -1,0 +1,16 @@
+package estabelecimento;
+
+import equipamentos.impressora.Deskjet;
+import equipamentos.impressora.Impressora;
+import equipamentos.impressora.LazerJet;
+
+
+public class Fabrica {
+	
+	public static void main(String[] args) {
+		Impressora impressora = new LazerJet();
+		
+		impressora.imprimir();
+	}
+	
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;interfaces.Navegador.java&apos; to &apos;NavegadorWeb.java&apos;&#x0A;- Original project: &apos;IPhone&apos;&#x0A;- Original element: &apos;interfaces.Navegador.java&apos;&#x0A;- Renamed element: &apos;interfaces.NavegadorWeb.java&apos;" description="Rename compilation unit &apos;Navegador.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;interfaces{Navegador.java" name="NavegadorWeb.java" references="false" stamp="1724946802539" version="1.0"/>
+</session>

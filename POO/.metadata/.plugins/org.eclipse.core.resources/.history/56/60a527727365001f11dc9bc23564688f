@@ -1,0 +1,7 @@
+package equipamentos.multifuncional;
+
+import equipamentos.digitalizadora.Digitalizadora;
+
+public class EquipamentoMultifuncional implements Impressora, Copiadora, Digitalizadora {
+	
+}

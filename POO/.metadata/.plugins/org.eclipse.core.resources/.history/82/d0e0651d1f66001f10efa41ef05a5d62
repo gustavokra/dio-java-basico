@@ -1,0 +1,63 @@
+package iPhone;
+
+import interfaces.AparelhoTelefonico;
+import interfaces.NavegadorWeb;
+import interfaces.ReprodutorMusical;
+
+public class IPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorWeb {
+
+	@Override
+	public void exibirPagina() {
+		System.out.println("");
+		
+	}
+
+	@Override
+	public void adicionarNovaAba() {
+		System.out.println("");
+		
+	}
+
+	@Override
+	public void atualizarPagina() {
+		System.out.println("");
+		
+	}
+
+	@Override
+	public void ligar() {
+		System.out.println("");
+		
+	}
+
+	@Override
+	public void atender() {
+		System.out.println("");
+		
+	}
+
+	@Override
+	public void iniciarCorreioVoz() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void tocar() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void pausar() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void selecionarMusica() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

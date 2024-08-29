@@ -1,0 +1,9 @@
+package interfaces;
+
+public class ReprodutorMusical {
+	public void tocar();
+	
+	public void pausar();
+	
+	public void SelecionarMusica();
+}

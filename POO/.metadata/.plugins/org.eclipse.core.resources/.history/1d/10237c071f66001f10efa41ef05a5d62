@@ -1,0 +1,7 @@
+package iPhone;
+
+import interfaces.ReprodutorMusical;
+
+public class IPhone implements ReprodutorMusical,  {
+
+}

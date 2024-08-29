@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dirs>
+    <entry loc="/usr/lib/jvm/java-17-openjdk-amd64" stamp="1722598312901"/>
+    <entry loc="/usr/lib/jvm/java-21-openjdk-amd64" stamp="1722598309119"/>
+    <entry loc="/usr/lib/jvm/java-11-openjdk-amd64" stamp="1722598333828"/>
+    <entry loc="/usr/lib/jvm/dcevm-11.0.15+1" stamp="1651159096000"/>
+</dirs>

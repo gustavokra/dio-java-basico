@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="enums.EnumDiaSemana"/>
+    <fullyQualifiedTypeName name="veiculos.Veiculo"/>
+    <fullyQualifiedTypeName name="msn.Telegram"/>
+    <fullyQualifiedTypeName name="msn.Bingo"/>
+    <fullyQualifiedTypeName name="msn.MSNMessenger"/>
+    <fullyQualifiedTypeName name="interfaces.Digitalizadora"/>
+    <fullyQualifiedTypeName name="interfaces.Impressora"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="equipamentos.impressora.Deskjet"/>
+    <fullyQualifiedTypeName name="equipamentos.impressora.Impressora"/>
+    <fullyQualifiedTypeName name="equipamentos.impressora.LazerJet"/>
+    <fullyQualifiedTypeName name="equipamentos.multifuncional.EquipamentoMultifuncional"/>
+    <fullyQualifiedTypeName name="equipamentos.digitalizadora.Digitalizadora"/>
+    <fullyQualifiedTypeName name="equipamentos.copiadora.Copiadora"/>
+</qualifiedTypeNameHistroy>
